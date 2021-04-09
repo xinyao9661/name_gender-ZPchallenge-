@@ -14,6 +14,8 @@ model.pkl
 templates folder         
 for testing, put __pycache__ file and these in same directory, then run app.py locally 
 
+note: need to change the address of name_gender.csv in model.py
+
 ## package requirements
 requirements.txt
 
