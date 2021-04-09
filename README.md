@@ -4,8 +4,10 @@ Hello!
 ## code and comments
 see challenge.ipynb
 
-## flask application
+## model performance
+accuracy: around 0.894 on local test dataset
 
+## flask application
 app.py  
 model.py  
 model.pkl    
