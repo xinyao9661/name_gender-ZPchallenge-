@@ -36,7 +36,7 @@ import scipy as sp
 from imblearn.over_sampling import RandomOverSampler
 from sklearn.preprocessing import OneHotEncoder
 
-df = pd.read_csv('/Users/apple/Desktop/job/Zuellig Pharma/gender/name_gender/name_gender.csv',engine='python')
+df = pd.read_csv('name_gender.csv',engine='python')
 
 #preprocessing
 def preprocessing(s):
