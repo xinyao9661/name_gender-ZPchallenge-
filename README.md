@@ -7,7 +7,7 @@ see challenge.ipynb
 ## flask application
 app.py  
 model.py  
-templates folder 
+templates folder   
 for testing, run app.py locally and make sure this 3 are in same directory 
 
 ## package requirements
